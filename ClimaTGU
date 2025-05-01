@@ -41,7 +41,7 @@
   <div class="city" id="city">Tu ciudad</div>
 
   <script>
-    const apiKey = "fbddb0aba6577833b5c0c3f44ae14d13";
+    const apiKey = "0e51b8a7e0d27a419bb2a77874b9bd7f";
     const city = "Tegucigalpa"; // Cambia por tu ciudad
 
     async function getWeather() {
